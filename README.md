@@ -1,4 +1,3 @@
 # gl_chef_server
 
-TODO: Enter the cookbook description here.
-
+Simple wrapper that install chef-server with chef-manage using library codebase.
